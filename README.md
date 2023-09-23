@@ -16,7 +16,7 @@
 
 <div align="center">
   <h2>
-    Hi there 👋, I'm Majlind Avdylaj (
+    <a name="heading">Hi there 👋, I'm Majlind Avdylaj (</a>
     <span>
         <a href="https://www.github.com/koddevyoutube">KODDEV</a>
     </span>
